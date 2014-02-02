@@ -52,11 +52,7 @@ public class TwitterTasks {
 		@Override
 		protected void onPostExecute(RequestToken requestToken) {
 			Intent intent;
-			if(TwitterValues.TWITTER_HAS_AUTHORIZED_APP) {
-				intent = new Intent(Intent.ACTION_VIEW, Uri.parse(requestToken.getAuthenticationURL()));				
-			} else {
-				intent = new Intent(Intent.ACTION_VIEW, Uri.parse(requestToken.getAuthorizationURL()));	
-			}
+			intent = new Intent(Intent.ACTION_VIEW, Uri.parse(requestToken.getAuthenticationURL()));
 			caller.startActivity(intent);
 			caller.finish();
 		}
