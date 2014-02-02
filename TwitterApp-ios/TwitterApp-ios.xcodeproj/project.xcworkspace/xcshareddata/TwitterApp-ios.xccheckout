@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A54C1B04-3C0A-4CA0-BF77-B299B765D863</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TwitterApp-ios</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AE4A9510-CFE5-4209-B2BD-ACA03EE8C3AA</key>
+		<string>https://github.com/nigamshah/famepop-examples.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TwitterApp-ios/TwitterApp-ios.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AE4A9510-CFE5-4209-B2BD-ACA03EE8C3AA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nigamshah/famepop-examples.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AE4A9510-CFE5-4209-B2BD-ACA03EE8C3AA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AE4A9510-CFE5-4209-B2BD-ACA03EE8C3AA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>famepop-examples</string>
+		</dict>
+	</array>
+</dict>
+</plist>
